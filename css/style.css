@@ -1,0 +1,27 @@
+* {
+    vertical-align: baseline;
+    background: transparent;
+}
+body {
+    padding-top: 100px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #151515;
+    color: white;
+}
+div {
+    padding-bottom: 25px;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+a {
+    color: white;
+}
+.whisper {
+    color: darkgray;
+    text-align: center; 
+    font-size: 12px;
+}
