@@ -22,9 +22,15 @@ p {
 }
 a {
     color: white;
+    transition: .4s;
 }
 .whisper {
     color: darkgray;
     text-align: center; 
     font-size: 12px;
+}
+a:hover{
+    font-size: large;
+    color: black;
+    background-color: white;
 }
