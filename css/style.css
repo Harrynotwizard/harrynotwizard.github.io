@@ -34,3 +34,12 @@ a:hover{
     color: black;
     background-color: white;
 }
+
+span{
+    font-size:36px;
+    font-family: 'Roboto', sans-serif;
+
+    display: flex;
+    text-align: right;
+    justify-content: center;
+}
