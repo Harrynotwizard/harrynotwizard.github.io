@@ -32,7 +32,7 @@ a {
 a:hover{
     font-size: large;
     color: black;
-    background-color: white;
+    background-color: rgb(125, 240, 211);
 }
 
 .time, span{
